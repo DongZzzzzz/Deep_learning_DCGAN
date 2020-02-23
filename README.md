@@ -9,3 +9,6 @@
 # 生成示例
 image_Quantity = 1500,num_epochs = 100  
 ![DCGAN_1500_100](./image/DCGAN_1500_100.png)
+
+image_Quantity = 10万,num_epochs = 100  
+![DCGAN_ALL_100](./image/DCGAN_ALL_100.png)
